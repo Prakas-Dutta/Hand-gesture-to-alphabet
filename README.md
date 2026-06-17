@@ -1,6 +1,6 @@
 # ✋ Alphabetical Hand Gesture Recognition
 
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Prakas-Dutta/Hand-gesture-to-alphabet/blob/main/Alphabetical_Hand_gesture_recognition_using_deep_learning.ipynb)
+[![Open In Colab](screenshots/gui.png)
 
 A classical machine learning project that recognizes hand gestures corresponding to all 26 English alphabets (A–Z) from grayscale images. Instead of relying on deep learning or pre-trained models, this project builds and compares multiple classifiers — including a custom KMeans-prototype model built from scratch using NumPy, which outperforms the sklearn SVM baseline.
 
